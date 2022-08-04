@@ -1,0 +1,5 @@
+2022/08/03-04:17:09.359 6140 Reusing MANIFEST F:/unreal/MyProject/Saved/webcache_4147\IndexedDB\https_www.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/03-04:17:42.410 2840 Level-0 table #5: started
+2022/08/03-04:17:42.430 2840 Level-0 table #5: 2669 bytes OK
+2022/08/03-04:17:42.432 2840 Delete type=0 #3
+2022/08/03-04:17:42.433 2840 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
